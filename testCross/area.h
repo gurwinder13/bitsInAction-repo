@@ -1,6 +1,6 @@
 /* 
  * File:   codeStruct.h
- * Author: andres
+ * Author: andres rogelio cordoba
  *
  * Created on October 27, 2019, 9:45 AM
  */
